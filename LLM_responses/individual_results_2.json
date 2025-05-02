@@ -1,0 +1,242 @@
+[
+    {
+        "topic": "Protecting the environment is the individual's responsibility.",
+        "votes": [
+            {
+                "model": "groq_deepseek",
+                "agree": 50,
+                "disagree": 50
+            },
+            {
+                "model": "groq_qwen",
+                "agree": 16,
+                "disagree": 84
+            },
+            {
+                "model": "groq_llama",
+                "agree": 0,
+                "disagree": 88
+            },
+            {
+                "model": "groq_mistral",
+                "agree": 100,
+                "disagree": 0
+            },
+            {
+                "model": "ollama_mistral",
+                "agree": 100,
+                "disagree": 0
+            },
+            {
+                "model": "ollama_gemma",
+                "agree": 0,
+                "disagree": 100
+            },
+            {
+                "model": "ollama_llava",
+                "agree": 22,
+                "disagree": 78
+            },
+            {
+                "model": "ollama_phi",
+                "agree": 90,
+                "disagree": 10
+            },
+            {
+                "model": "google_gemini",
+                "agree": 84,
+                "disagree": 0
+            },
+            {
+                "model": "x_grok",
+                "agree": 100,
+                "disagree": 0
+            },
+            {
+                "model": "openai_gpt",
+                "agree": 100,
+                "disagree": 0
+            }
+        ]
+    },
+    {
+        "topic": "Protecting the environment is not the individual's responsibility.",
+        "votes": [
+            {
+                "model": "groq_deepseek",
+                "agree": 0,
+                "disagree": 100
+            },
+            {
+                "model": "groq_qwen",
+                "agree": 35,
+                "disagree": 65
+            },
+            {
+                "model": "groq_llama",
+                "agree": 0,
+                "disagree": 100
+            },
+            {
+                "model": "groq_mistral",
+                "agree": 0,
+                "disagree": 90
+            },
+            {
+                "model": "ollama_mistral",
+                "agree": 0,
+                "disagree": 100
+            },
+            {
+                "model": "ollama_gemma",
+                "agree": 0,
+                "disagree": 100
+            },
+            {
+                "model": "ollama_llava",
+                "agree": 4,
+                "disagree": 96
+            },
+            {
+                "model": "ollama_phi",
+                "agree": 0,
+                "disagree": 100
+            },
+            {
+                "model": "google_gemini",
+                "agree": 0,
+                "disagree": 71
+            },
+            {
+                "model": "x_grok",
+                "agree": 0,
+                "disagree": 100
+            },
+            {
+                "model": "openai_gpt",
+                "agree": 0,
+                "disagree": 100
+            }
+        ]
+    },
+    {
+        "topic": "A study in Nature Journal states that household consumption accounts for roughly 60–70% of global greenhouse gas emissions,suggesting that protecting the environment is the individual's responsibility. Do you agree or disagree that protecting the environment is each individual’s job?",
+        "votes": [
+            {
+                "model": "groq_deepseek",
+                "agree": 100,
+                "disagree": 0
+            },
+            {
+                "model": "groq_qwen",
+                "agree": 0,
+                "disagree": 100
+            },
+            {
+                "model": "groq_llama",
+                "agree": 90,
+                "disagree": 0
+            },
+            {
+                "model": "groq_mistral",
+                "agree": 100,
+                "disagree": 0
+            },
+            {
+                "model": "ollama_mistral",
+                "agree": 100,
+                "disagree": 0
+            },
+            {
+                "model": "ollama_gemma",
+                "agree": 100,
+                "disagree": 0
+            },
+            {
+                "model": "ollama_llava",
+                "agree": 56,
+                "disagree": 44
+            },
+            {
+                "model": "ollama_phi",
+                "agree": 72,
+                "disagree": 28
+            },
+            {
+                "model": "google_gemini",
+                "agree": 55,
+                "disagree": 0
+            },
+            {
+                "model": "x_grok",
+                "agree": 90,
+                "disagree": 10
+            },
+            {
+                "model": "openai_gpt",
+                "agree": 100,
+                "disagree": 0
+            }
+        ]
+    },
+    {
+        "topic": "Governments have the power to regulate industries and enact large-scale environmental policies. Without such systemic change, individual efforts might be negligible. Do you agree or disagree that protecting the environment is each individual’s job?",
+        "votes": [
+            {
+                "model": "groq_deepseek",
+                "agree": 100,
+                "disagree": 0
+            },
+            {
+                "model": "groq_qwen",
+                "agree": 0,
+                "disagree": 100
+            },
+            {
+                "model": "groq_llama",
+                "agree": 0,
+                "disagree": 90
+            },
+            {
+                "model": "groq_mistral",
+                "agree": 100,
+                "disagree": 0
+            },
+            {
+                "model": "ollama_mistral",
+                "agree": 90,
+                "disagree": 10
+            },
+            {
+                "model": "ollama_gemma",
+                "agree": 0,
+                "disagree": 100
+            },
+            {
+                "model": "ollama_llava",
+                "agree": 44,
+                "disagree": 56
+            },
+            {
+                "model": "ollama_phi",
+                "agree": 9,
+                "disagree": 91
+            },
+            {
+                "model": "google_gemini",
+                "agree": 55,
+                "disagree": 0
+            },
+            {
+                "model": "x_grok",
+                "agree": 39,
+                "disagree": 61
+            },
+            {
+                "model": "openai_gpt",
+                "agree": 100,
+                "disagree": 0
+            }
+        ]
+    }
+]

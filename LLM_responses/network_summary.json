@@ -1,0 +1,552 @@
+[
+    {
+        "degree": 0,
+        "votes": [
+            {
+                "model": "groq_deepseek_r1",
+                "agree": 8,
+                "disagree": 2
+            },
+            {
+                "model": "groq_qwen_qwq",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "groq_llama_4scout",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "groq_mistral_saba",
+                "agree": 10,
+                "disagree": 0
+            },
+            {
+                "model": "ollama_llava",
+                "agree": 7,
+                "disagree": 3
+            },
+            {
+                "model": "ollama_phi3",
+                "agree": 8,
+                "disagree": 2
+            },
+            {
+                "model": "ollama_gemma3",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "google_gemini_25flash",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "x_grok_3mini",
+                "agree": 10,
+                "disagree": 0
+            },
+            {
+                "model": "openai_gpt4",
+                "agree": 10,
+                "disagree": 0
+            }
+        ]
+    }, 
+    {
+        "degree": 1,
+        "votes": [
+            {
+                "model": "groq_deepseek_r1",
+                "agree": 5,
+                "disagree": 5
+            },
+            {
+                "model": "groq_qwen_qwq",
+                "agree": 6,
+                "disagree": 4
+            },
+            {
+                "model": "groq_llama_4scout",
+                "agree": 0,
+                "disagree": 7
+            },
+            {
+                "model": "groq_mistral_saba",
+                "agree": 10,
+                "disagree": 0
+            },
+            {
+                "model": "ollama_llava",
+                "agree": 8,
+                "disagree": 2
+            },
+            {
+                "model": "ollama_phi3",
+                "agree": 6,
+                "disagree": 4
+            },
+            {
+                "model": "ollama_gemma3",
+                "agree": 7,
+                "disagree": 3
+            },
+            {
+                "model": "google_gemini_25flash",
+                "agree": 2,
+                "disagree": 8
+            },
+            {
+                "model": "x_grok_3mini",
+                "agree": 5,
+                "disagree": 5
+            },
+            {
+                "model": "openai_gpt4",
+                "agree": 10,
+                "disagree": 0
+            }
+        ]
+    },
+    {
+        "degree": 2,
+        "votes": [
+            {
+                "model": "groq_deepseek_r1",
+                "agree": 5,
+                "disagree": 5
+            },
+            {
+                "model": "groq_qwen_qwq",
+                "agree": 1,
+                "disagree": 9
+            },
+            {
+                "model": "groq_llama_4scout",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "groq_mistral_saba",
+                "agree": 7,
+                "disagree": 3
+            },
+            {
+                "model": "ollama_llava",
+                "agree": 8,
+                "disagree": 2
+            },
+            {
+                "model": "ollama_phi3",
+                "agree": 7,
+                "disagree": 3
+            },
+            {
+                "model": "ollama_gemma3",
+                "agree": 2,
+                "disagree": 8
+            },
+            {
+                "model": "google_gemini_25flash",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "x_grok_3mini",
+                "agree": 7,
+                "disagree": 3
+            },
+            {
+                "model": "openai_gpt4",
+                "agree": 9,
+                "disagree": 1
+            }
+        ]
+    },
+    {
+        "degree": 3,
+        "votes": [
+            {
+                "model": "groq_deepseek_r1",
+                "agree": 3,
+                "disagree": 7
+            },
+            {
+                "model": "groq_qwen_qwq",
+                "agree": 2,
+                "disagree": 8
+            },
+            {
+                "model": "groq_llama_4scout",
+                "agree": 1,
+                "disagree": 9
+            },
+            {
+                "model": "groq_mistral_saba",
+                "agree": 9,
+                "disagree": 1
+            },
+            {
+                "model": "ollama_llava",
+                "agree": 9,
+                "disagree": 1
+            },
+            {
+                "model": "ollama_phi3",
+                "agree": 4,
+                "disagree": 6
+            },
+            {
+                "model": "ollama_gemma3",
+                "agree": 5,
+                "disagree": 5
+            },
+            {
+                "model": "google_gemini_25flash",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "x_grok_3mini",
+                "agree": 4,
+                "disagree": 6
+            },
+            {
+                "model": "openai_gpt4",
+                "agree": 10,
+                "disagree": 0
+            }
+        ]
+    },
+    {
+        "degree": 4,
+        "votes": [
+            {
+                "model": "groq_deepseek_r1",
+                "agree": 5,
+                "disagree": 5
+            },
+            {
+                "model": "groq_qwen_qwq",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "groq_llama_4scout",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "groq_mistral_saba",
+                "agree": 8,
+                "disagree": 2
+            },
+            {
+                "model": "ollama_llava",
+                "agree": 7,
+                "disagree": 3
+            },
+            {
+                "model": "ollama_phi3",
+                "agree": 4,
+                "disagree": 6
+            },
+            {
+                "model": "ollama_gemma3",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "google_gemini_25flash",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "x_grok_3mini",
+                "agree": 6,
+                "disagree": 4
+            },
+            {
+                "model": "openai_gpt4",
+                "agree": 10,
+                "disagree": 0
+            }
+        ]
+    },
+    {
+        "degree": 5,
+        "votes": [
+            {
+                "model": "groq_deepseek_r1",
+                "agree": 3,
+                "disagree": 7
+            },
+            {
+                "model": "groq_qwen_qwq",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "groq_llama_4scout",
+                "agree": 0,
+                "disagree": 5
+            },
+            {
+                "model": "groq_mistral_saba",
+                "agree": 7,
+                "disagree": 3
+            },
+            {
+                "model": "ollama_llava",
+                "agree": 9,
+                "disagree": 1
+            },
+            {
+                "model": "ollama_phi3",
+                "agree": 6,
+                "disagree": 4
+            },
+            {
+                "model": "ollama_gemma3",
+                "agree": 5,
+                "disagree": 5
+            },
+            {
+                "model": "google_gemini_25flash",
+                "agree": 1,
+                "disagree": 9
+            },
+            {
+                "model": "x_grok_3mini",
+                "agree": 7,
+                "disagree": 3
+            },
+            {
+                "model": "openai_gpt4",
+                "agree": 9,
+                "disagree": 1
+            }
+        ]
+    },
+    {
+        "degree": 6,
+        "votes": [
+            {
+                "model": "groq_deepseek_r1",
+                "agree": 3,
+                "disagree": 7
+            },
+            {
+                "model": "groq_qwen_qwq",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "groq_llama_4scout",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "groq_mistral_saba",
+                "agree": 6,
+                "disagree": 4
+            },
+            {
+                "model": "ollama_llava",
+                "agree": 9,
+                "disagree": 1
+            },
+            {
+                "model": "ollama_phi3",
+                "agree": 5,
+                "disagree": 5
+            },
+            {
+                "model": "ollama_gemma3",
+                "agree": 3,
+                "disagree": 7
+            },
+            {
+                "model": "google_gemini_25flash",
+                "agree": 1,
+                "disagree": 9
+            },
+            {
+                "model": "x_grok_3mini",
+                "agree": 4,
+                "disagree": 6
+            },
+            {
+                "model": "openai_gpt4",
+                "agree": 10,
+                "disagree": 0
+            }
+        ]
+    },
+    {
+        "degree": 7,
+        "votes": [
+            {
+                "model": "groq_deepseek_r1",
+                "agree": 3,
+                "disagree": 7
+            },
+            {
+                "model": "groq_qwen_qwq",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "groq_llama_4scout",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "groq_mistral_saba",
+                "agree": 7,
+                "disagree": 3
+            },
+            {
+                "model": "ollama_llava",
+                "agree": 10,
+                "disagree": 0
+            },
+            {
+                "model": "ollama_phi3",
+                "agree": 9,
+                "disagree": 1
+            },
+            {
+                "model": "ollama_gemma3",
+                "agree": 3,
+                "disagree": 7
+            },
+            {
+                "model": "google_gemini_25flash",
+                "agree": 1,
+                "disagree": 9
+            },
+            {
+                "model": "x_grok_3mini",
+                "agree": 3,
+                "disagree": 7
+            },
+            {
+                "model": "openai_gpt4",
+                "agree": 10,
+                "disagree": 0
+            }
+        ]
+    },
+    {
+        "degree": 8,
+        "votes": [
+            {
+                "model": "groq_deepseek_r1",
+                "agree": 2,
+                "disagree": 8
+            },
+            {
+                "model": "groq_qwen_qwq",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "groq_llama_4scout",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "groq_mistral_saba",
+                "agree": 10,
+                "disagree": 0
+            },
+            {
+                "model": "ollama_llava",
+                "agree": 7,
+                "disagree": 3
+            },
+            {
+                "model": "ollama_phi3",
+                "agree": 8,
+                "disagree": 2
+            },
+            {
+                "model": "ollama_gemma3",
+                "agree": 1,
+                "disagree": 9
+            },
+            {
+                "model": "google_gemini_25flash",
+                "agree": 1,
+                "disagree": 9
+            },
+            {
+                "model": "x_grok_3mini",
+                "agree": 6,
+                "disagree": 4
+            },
+            {
+                "model": "openai_gpt4",
+                "agree": 10,
+                "disagree": 0
+            }
+        ]
+    },
+    {
+        "degree": 9,
+        "votes": [
+            {
+                "model": "groq_deepseek_r1",
+                "agree": 2,
+                "disagree": 8
+            },
+            {
+                "model": "groq_qwen_qwq",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "groq_llama_4scout",
+                "agree": 0,
+                "disagree": 10
+            },
+            {
+                "model": "groq_mistral_saba",
+                "agree": 7,
+                "disagree": 3
+            },
+            {
+                "model": "ollama_llava",
+                "agree": 10,
+                "disagree": 0
+            },
+            {
+                "model": "ollama_phi3",
+                "agree": 7,
+                "disagree": 3
+            },
+            {
+                "model": "ollama_gemma3",
+                "agree": 1,
+                "disagree": 9
+            },
+            {
+                "model": "google_gemini_25flash",
+                "agree": 1,
+                "disagree": 9
+            },
+            {
+                "model": "x_grok_3mini",
+                "agree": 4,
+                "disagree": 6
+            },
+            {
+                "model": "openai_gpt4",
+                "agree": 10,
+                "disagree": 0
+            }
+        ]
+    }
+]
