@@ -134,4 +134,6 @@ In our experiments with Networked LLM Testing, we used network degree *d∈{0, 1
 
 ### Final Remarks
 
-During experiments, we made sure to set the **temperature of LLMs to 0** to exclude randomness as much as we could. We initiated a new API call every time the response from the agent was required. We carefully read the documentation provided by the developers of each model, and ensured that no internal caching within the provider and model processing units is taking place.
+During experiments, we made sure to set the **temperature of LLMs to 0** to exclude randomness as much as we could. We initiated a new API call every time the response from the agent was required. We carefully read the documentation provided by the developers of each model, and ensured that no internal caching within the provider and model processing units is taking place. 
+
+You can find all responses we got from LLMs in the respective folder, the results and their analysis is written in thesis_report.docx file in the Reports folder. Enjoy reading!
