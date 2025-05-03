@@ -26,6 +26,13 @@ We have an *M* set of heterogeneous LLMs and a *P* family of voting protocols th
 2.	The probability of a vote change when there is a switch from one protocol *p<sub>i</sub>* to *p<sub>j</sub> (i!=j)*;
 3.	The aggregate change in group decision as a function of *d*.
 
+As the evaluation of the robustness of collective decisions of LLMs, we came up with two research questions:
+
+1.	**What is the baseline disagreement/agree rate per LLM in isolation, and are certain LLMs more vulnerable than others??**
+In the first part of the experiments, we examine the 10 mainstream LLMs individually by firstly sending 100 requests to an LLM and asking for a voting position (one-word vote) on the same prompt. The resulting per-model agree-rate serves as a ground-truth reference distribution. Next, by altering the voting protocol, the addition of encouraging and discouraging statements, we run the same experiment and collect 100 votes. By comparing the resulting scores, we can (i) quantify intrinsic ideological or alignment differences among models. The goal is to test whether, on an individual basis, the LLMs are vulnerable to changes in protocol.
+2.	**How does the aggregated vote outcome shift as network degree increases?**
+We put the 100 agents (each of the 10 agents has one of the 10 mainstream LLMs in the backend) in random regular networks with different network degree *d∈{0, 9}*. We share each agent’s neighbours’ opinions about the topic first, and then, we repeat the vote. By measuring both the change in the overall majority and the fraction of individual votes that switched positions as d increases tell how strongly social interaction alone can affect the original distribution. If small values of d already overturn the baseline majority, real-world LLM-based collective decision-making systems could also be fragile (considering that most of them are in a fully connected graph); if the change happens at higher degrees of *d*, protocol designers get a concrete safety boundary value.
+
 
 ## 📝 Methodology
 
